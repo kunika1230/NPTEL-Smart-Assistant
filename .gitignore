@@ -1,0 +1,19 @@
+# 🔐 Secrets
+.env
+Nptel AI/.env
+
+# 🐍 Virtual Environments (ONLY env folder)
+Nptel AI/env/
+env/
+venv/
+
+# 🧠 Python cache
+__pycache__/
+*.pyc
+
+# 📦 Generated / unwanted
+logs/
+*.zip
+
+# 💻 IDE
+.vscode/
